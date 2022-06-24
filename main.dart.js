@@ -58908,10 +58908,10 @@ J(a){var s=null,r="Copyright \xa9 2022 Iyke-Emmanuel",q="Delius",p="Emmanueldav9
 return A.cE(s,A.dI(A.e([new A.oI(o,this.d,s),B.Gi,m],n),B.S,B.a4),B.z,B.aE,s,s,s,s,s,s,B.zw,s,s,o)}}
 A.Jv.prototype={
 J(a){var s=null
-return A.cE(s,A.dI(A.e([A.ct("Hello!  I\u2019m Iyke Emmanuel",A.cS("Delius",B.u,s,26),s,s),B.uF,A.ct("I seek to develop my skills professionally and be a motivation to theirs as others where to me.",A.cS("Delius",B.ac,s,16),s,s)],t.p),B.aR,B.a4),B.z,s,new A.az(0,this.c*this.d,0,1/0),s,s,s,s,s,s,s,s,s)}}
+return A.cE(s,A.dI(A.e([A.ct("Hello!  I\u2019m Iyke Emmanuel",A.cS("Delius",B.u,s,26),s,s),B.uF,A.ct("I seek to develop my skills professionally.",A.cS("Delius",B.ac,s,16),s,s)],t.p),B.aR,B.a4),B.z,s,new A.az(0,this.c*this.d,0,1/0),s,s,s,s,s,s,s,s,s)}}
 A.JE.prototype={
 J(a){var s=null,r="Delius"
-return A.cE(s,A.dI(A.e([A.ct("\u2022 I\u2019m studying Computer Science at the Imo state University Nigeria.",A.cS(r,B.ac,s,13),s,s),B.ks,A.ct("\u2022 I\u2019m An Open-Source Fanboy.",A.cS(r,B.ac,s,13),s,s),B.ks,A.ct("\u2022 To me nothing is possible programmatically if someone have done it, I can do it better. ",A.cS(r,B.ac,s,13),s,s)],t.p),B.aR,B.a4),B.z,s,new A.az(0,this.c*this.d,0,1/0),s,s,s,s,s,s,s,s,s)}}
+return A.cE(s,A.dI(A.e([A.ct("\u2022 I\u2019m studying Computer Science at the Imo state University Nigeria.",A.cS(r,B.ac,s,13),s,s),B.ks,A.ct("\u2022 I\u2019m An very bullish on Fintech and Saas services.",A.cS(r,B.ac,s,13),s,s),B.ks,A.ct("\u2022 Crypto enthusiasts   . ",A.cS(r,B.ac,s,13),s,s)],t.p),B.aR,B.a4),B.z,s,new A.az(0,this.c*this.d,0,1/0),s,s,s,s,s,s,s,s,s)}}
 A.ka.prototype={
 J(a){var s=null,r=this.d,q=new A.dg(r.k(0,B.y)?B.Q:r,1,B.bg,B.ao)
 return A.cE(s,A.Q9(A.ct("."+this.e,A.cS("Delius",r,s,13),s,s),s,s),B.z,s,s,new A.ef(this.c,s,new A.df(q,q,q,q),s,s,s,B.aC),s,s,s,s,B.zy,s,s,170)}}
